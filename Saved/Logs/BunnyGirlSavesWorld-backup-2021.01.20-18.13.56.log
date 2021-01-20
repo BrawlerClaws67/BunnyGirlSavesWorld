@@ -1,0 +1,1185 @@
+﻿Log file open, 01/20/21 12:56:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BunnyGirlSavesWorld
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.054020
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Steam/Epic Games Launcher/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.20-17.56.22:361][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.20-17.56.22:361][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.20-17.56.22:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Engine.ini]
+[2021.01.20-17.56.22:367][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.20-17.56.22:367][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2021.01.20-17.56.22:367][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2021.01.20-17.56.22:367][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2021.01.20-17.56.22:367][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2021.01.20-17.56.22:367][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2021.01.20-17.56.22:367][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2021.01.20-17.56.22:367][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2021.01.20-17.56.22:367][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2021.01.20-17.56.22:367][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2021.01.20-17.56.22:368][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.01.20-17.56.22:368][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2021.01.20-17.56.22:368][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2021.01.20-17.56.22:368][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2021.01.20-17.56.22:368][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2021.01.20-17.56.22:368][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.01.20-17.56.22:368][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2021.01.20-17.56.22:368][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.01.20-17.56.22:368][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2021.01.20-17.56.22:368][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2021.01.20-17.56.22:368][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2021.01.20-17.56.22:368][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2021.01.20-17.56.22:369][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2021.01.20-17.56.22:369][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2021.01.20-17.56.22:369][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2021.01.20-17.56.22:369][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.01.20-17.56.22:369][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2021.01.20-17.56.22:369][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2021.01.20-17.56.22:369][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2021.01.20-17.56.22:369][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.01.20-17.56.22:369][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.01.20-17.56.22:369][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.01.20-17.56.22:369][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2021.01.20-17.56.22:369][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2021.01.20-17.56.22:370][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2021.01.20-17.56.22:370][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2021.01.20-17.56.22:370][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2021.01.20-17.56.22:370][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2021.01.20-17.56.22:370][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2021.01.20-17.56.22:370][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2021.01.20-17.56.22:370][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2021.01.20-17.56.22:370][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2021.01.20-17.56.22:370][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2021.01.20-17.56.22:370][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2021.01.20-17.56.22:370][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.01.20-17.56.22:371][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2021.01.20-17.56.22:371][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2021.01.20-17.56.22:371][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2021.01.20-17.56.22:371][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2021.01.20-17.56.22:371][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.01.20-17.56.22:371][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2021.01.20-17.56.22:371][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2021.01.20-17.56.22:371][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2021.01.20-17.56.22:371][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2021.01.20-17.56.22:371][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2021.01.20-17.56.22:371][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2021.01.20-17.56.22:372][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2021.01.20-17.56.22:372][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2021.01.20-17.56.22:372][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.01.20-17.56.22:395][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2021.01.20-17.56.22:395][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.01.20-17.56.22:395][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.01.20-17.56.22:395][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2021.01.20-17.56.22:395][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2021.01.20-17.56.22:396][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2021.01.20-17.56.22:396][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2021.01.20-17.56.22:396][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2021.01.20-17.56.22:396][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2021.01.20-17.56.22:396][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2021.01.20-17.56.22:396][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2021.01.20-17.56.22:396][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2021.01.20-17.56.22:396][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2021.01.20-17.56.22:396][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2021.01.20-17.56.22:396][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2021.01.20-17.56.22:396][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2021.01.20-17.56.22:396][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2021.01.20-17.56.22:397][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2021.01.20-17.56.22:397][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2021.01.20-17.56.22:397][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2021.01.20-17.56.22:397][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2021.01.20-17.56.22:397][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2021.01.20-17.56.22:397][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2021.01.20-17.56.22:397][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2021.01.20-17.56.22:397][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2021.01.20-17.56.22:397][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2021.01.20-17.56.22:397][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2021.01.20-17.56.22:397][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2021.01.20-17.56.22:398][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2021.01.20-17.56.22:398][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2021.01.20-17.56.22:398][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2021.01.20-17.56.22:398][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2021.01.20-17.56.22:398][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2021.01.20-17.56.22:398][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2021.01.20-17.56.22:398][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2021.01.20-17.56.22:398][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2021.01.20-17.56.22:398][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2021.01.20-17.56.22:398][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2021.01.20-17.56.22:398][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2021.01.20-17.56.22:398][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Engine.ini]
+[2021.01.20-17.56.22:399][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Engine.ini]
+[2021.01.20-17.56.22:399][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.20-17.56.22:399][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.20-17.56.22:399][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.20-17.56.22:399][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.20-17.56.22:399][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.20-17.56.22:399][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.20-17.56.22:399][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.20-17.56.22:399][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.20-17.56.22:399][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.20-17.56.22:399][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.20-17.56.22:400][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.20-17.56.22:400][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.20-17.56.22:400][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.20-17.56.22:400][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.20-17.56.22:400][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Engine.ini]
+[2021.01.20-17.56.22:400][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.20-17.56.22:400][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.20-17.56.22:400][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.20-17.56.22:400][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.20-17.56.22:400][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.20-17.56.22:400][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.20-17.56.22:401][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.20-17.56.22:401][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.20-17.56.22:401][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.20-17.56.22:401][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.20-17.56.22:401][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.20-17.56.22:401][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.20-17.56.22:401][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.20-17.56.22:401][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Engine.ini]
+[2021.01.20-17.56.22:401][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Engine.ini]
+[2021.01.20-17.56.22:436][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Scalability.ini]
+[2021.01.20-17.56.22:436][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.20-17.56.22:436][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.20-17.56.22:436][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Scalability.ini]
+[2021.01.20-17.56.22:436][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.20-17.56.22:436][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Scalability.ini]
+[2021.01.20-17.56.22:436][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.20-17.56.22:436][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.20-17.56.22:436][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.20-17.56.22:436][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.20-17.56.22:436][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.20-17.56.22:437][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.20-17.56.22:437][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.20-17.56.22:437][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.20-17.56.22:437][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.20-17.56.22:437][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.20-17.56.22:437][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.20-17.56.22:437][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.20-17.56.22:437][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.20-17.56.22:437][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.20-17.56.22:437][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.20-17.56.22:437][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.20-17.56.22:437][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.20-17.56.22:438][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.20-17.56.22:438][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Scalability.ini]
+[2021.01.20-17.56.22:438][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.20-17.56.22:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.20-17.56.22:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.20-17.56.22:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.20-17.56.22:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.20-17.56.22:438][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.20-17.56.22:438][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.20-17.56.22:438][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.20-17.56.22:438][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.20-17.56.22:438][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.20-17.56.22:438][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.20-17.56.22:439][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.20-17.56.22:439][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.20-17.56.22:439][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.20-17.56.22:439][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.20-17.56.22:439][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.20-17.56.22:439][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.20-17.56.22:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.20-17.56.22:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.20-17.56.22:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.20-17.56.22:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.20-17.56.22:439][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.20-17.56.22:439][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.20-17.56.22:440][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.20-17.56.22:440][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.20-17.56.22:440][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.20-17.56.22:440][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.20-17.56.22:440][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.20-17.56.22:440][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.20-17.56.22:440][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.20-17.56.22:440][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Scalability.ini]
+[2021.01.20-17.56.22:440][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.20-17.56.22:440][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.20-17.56.22:440][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.20-17.56.22:440][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.20-17.56.22:440][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.20-17.56.22:441][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.20-17.56.22:441][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.20-17.56.22:441][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.20-17.56.22:441][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.20-17.56.22:441][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Scalability.ini]
+[2021.01.20-17.56.22:441][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.20-17.56.22:441][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.20-17.56.22:441][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.20-17.56.22:441][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.20-17.56.22:441][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.20-17.56.22:441][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.20-17.56.22:441][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.20-17.56.22:441][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.20-17.56.22:442][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.20-17.56.22:442][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.20-17.56.22:442][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.20-17.56.22:442][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.20-17.56.22:442][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.20-17.56.22:442][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.20-17.56.22:442][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.20-17.56.22:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.20-17.56.22:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.20-17.56.22:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.20-17.56.22:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.20-17.56.22:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.20-17.56.22:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.20-17.56.22:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.20-17.56.22:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.20-17.56.22:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.20-17.56.22:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.20-17.56.22:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.20-17.56.22:444][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Scalability.ini]
+[2021.01.20-17.56.22:444][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.20-17.56.22:444][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.20-17.56.22:444][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Scalability.ini]
+[2021.01.20-17.56.22:444][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.20-17.56.22:444][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.20-17.56.22:444][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.20-17.56.22:454][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.20-17.56.22:454][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.20-17.56.22:519][  0]LogHAL: Display: Platform has ~ 16 GB [17043017728 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.20-17.56.22:519][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.20-17.56.22:519][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Scalability.ini]
+[2021.01.20-17.56.22:520][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.20-17.56.22:520][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.20-17.56.22:520][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Scalability.ini]
+[2021.01.20-17.56.22:520][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.20-17.56.22:520][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Scalability.ini]
+[2021.01.20-17.56.22:520][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.20-17.56.22:520][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.20-17.56.22:520][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.20-17.56.22:520][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.20-17.56.22:520][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.20-17.56.22:520][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.20-17.56.22:521][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.20-17.56.22:521][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.20-17.56.22:521][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.20-17.56.22:521][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.20-17.56.22:521][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.20-17.56.22:521][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.20-17.56.22:521][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.20-17.56.22:521][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.20-17.56.22:521][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.20-17.56.22:521][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.20-17.56.22:521][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.20-17.56.22:521][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.20-17.56.22:522][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Scalability.ini]
+[2021.01.20-17.56.22:522][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.20-17.56.22:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.20-17.56.22:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.20-17.56.22:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.20-17.56.22:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.20-17.56.22:522][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.20-17.56.22:522][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.20-17.56.22:522][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.20-17.56.22:522][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.20-17.56.22:522][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.20-17.56.22:522][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.20-17.56.22:523][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.20-17.56.22:523][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.20-17.56.22:523][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.20-17.56.22:523][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.20-17.56.22:523][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.20-17.56.22:523][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.20-17.56.22:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.20-17.56.22:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.20-17.56.22:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.20-17.56.22:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.20-17.56.22:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.20-17.56.22:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.20-17.56.22:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.20-17.56.22:524][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.20-17.56.22:524][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.20-17.56.22:524][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.20-17.56.22:524][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.20-17.56.22:524][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.20-17.56.22:524][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.20-17.56.22:524][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Scalability.ini]
+[2021.01.20-17.56.22:524][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.20-17.56.22:524][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.20-17.56.22:524][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.20-17.56.22:524][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.20-17.56.22:524][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.20-17.56.22:524][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.20-17.56.22:525][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.20-17.56.22:525][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.20-17.56.22:525][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.20-17.56.22:525][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Scalability.ini]
+[2021.01.20-17.56.22:525][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.20-17.56.22:525][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.20-17.56.22:525][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.20-17.56.22:525][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.20-17.56.22:525][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.20-17.56.22:525][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.20-17.56.22:525][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.20-17.56.22:525][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.20-17.56.22:526][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.20-17.56.22:526][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.20-17.56.22:526][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.20-17.56.22:526][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.20-17.56.22:526][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.20-17.56.22:526][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.20-17.56.22:526][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.20-17.56.22:526][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.20-17.56.22:526][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.20-17.56.22:526][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.20-17.56.22:526][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.20-17.56.22:526][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.20-17.56.22:526][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.20-17.56.22:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.20-17.56.22:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.20-17.56.22:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.20-17.56.22:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.20-17.56.22:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.20-17.56.22:527][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Scalability.ini]
+[2021.01.20-17.56.22:527][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.20-17.56.22:527][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.20-17.56.22:527][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Scalability.ini]
+[2021.01.20-17.56.22:527][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.20-17.56.22:527][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.20-17.56.22:527][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.20-17.56.22:528][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.20-17.56.22:544][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.20-17.56.22:544][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.20-17.56.22:544][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Config/Windows/Engine.ini]
+[2021.01.20-17.56.22:569][  0]LogInit: Computer: DESKTOP-EFCN17S
+[2021.01.20-17.56.22:569][  0]LogInit: User: AlexanderCoelho
+[2021.01.20-17.56.22:569][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.20-17.56.22:569][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.20-17.56.22:569][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.20-17.56.22:570][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.20-17.56.22:570][  0]LogMemory: Process Physical Memory: 105.80 MB used, 105.80 MB peak
+[2021.01.20-17.56.22:570][  0]LogMemory: Process Virtual Memory: 100.49 MB used, 100.49 MB peak
+[2021.01.20-17.56.22:570][  0]LogMemory: Physical Memory: 4051.57 MB used,  12201.91 MB free, 16253.49 MB total
+[2021.01.20-17.56.22:570][  0]LogMemory: Virtual Memory: 5105.00 MB used,  134212624.00 MB free, 134217728.00 MB total
+[2021.01.20-17.56.22:595][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.20-17.56.23:722][  0]LogInit: Using OS detected language (en-US).
+[2021.01.20-17.56.23:722][  0]LogInit: Using OS detected locale (en-US).
+[2021.01.20-17.56.23:771][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.01.20-17.56.25:111][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.20-17.56.25:696][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.20-17.56.25:696][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.20-17.56.27:251][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.20-17.56.27:251][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.20-17.56.27:251][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.20-17.56.27:251][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.20-17.56.27:520][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2021.01.20-17.56.27:521][  0]LogD3D11RHI:       4053/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.01.20-17.56.27:609][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2021.01.20-17.56.27:609][  0]LogD3D11RHI:       128/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.01.20-17.56.27:617][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.20-17.56.27:617][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.20-17.56.27:617][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.20-17.56.27:853][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.20-17.56.27:853][  0]LogD3D11RHI:     GPU DeviceId: 0x13d7 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.20-17.56.27:853][  0]LogWindows: EnumDisplayDevices:
+[2021.01.20-17.56.27:854][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2021.01.20-17.56.27:855][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.01.20-17.56.27:857][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.01.20-17.56.27:858][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2021.01.20-17.56.27:859][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2021.01.20-17.56.27:859][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2021.01.20-17.56.27:859][  0]LogD3D11RHI:   Driver Version: 431.53 (internal:26.21.14.3153, unified:431.53)
+[2021.01.20-17.56.27:859][  0]LogD3D11RHI:      Driver Date: 7-12-2019
+[2021.01.20-17.56.27:860][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2021.01.20-17.56.28:059][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.20-17.56.28:060][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.20-17.56.28:227][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.20-17.56.30:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.20-17.56.30:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.20-17.56.30:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.20-17.56.30:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2021.01.20-17.56.30:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.20-17.56.30:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2021.01.20-17.56.30:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2021.01.20-17.56.30:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.20-17.56.30:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2021.01.20-17.56.30:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.20-17.56.30:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.20-17.56.30:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2021.01.20-17.56.30:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.20-17.56.30:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2021.01.20-17.56.30:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2021.01.20-17.56.30:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.20-17.56.30:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2021.01.20-17.56.30:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.20-17.56.30:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.20-17.56.30:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.20-17.56.30:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.20-17.56.30:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.20-17.56.30:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.20-17.56.30:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.20-17.56.30:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.20-17.56.30:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.20-17.56.30:708][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.20-17.56.30:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.20-17.56.30:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.20-17.56.30:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.20-17.56.30:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.20-17.56.30:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.20-17.56.31:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.20-17.56.31:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.20-17.56.31:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.20-17.56.31:167][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.20-17.56.31:439][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.20-17.56.32:680][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Intermediate/Shaders/WorkingDirectory/12360/).
+[2021.01.20-17.56.32:680][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alexander Coelho/AppData/Local/Temp/UnrealShaderWorkingDir/CF8F176947C456D80B86BB878603CDEB/'.
+[2021.01.20-17.56.32:686][  0]LogXGEController: Cleaning working directory: C:/Users/Alexander Coelho/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.01.20-17.56.32:687][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.20-17.56.32:688][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.20-17.56.32:688][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.20-17.56.37:523][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.20-17.56.37:717][  0]LogDerivedDataCache: Loaded boot cache 0.17s 78MB C:/Users/Alexander Coelho/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.01.20-17.56.37:718][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alexander Coelho/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2021.01.20-17.56.37:718][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.20-17.56.37:718][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.20-17.56.37:718][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.20-17.56.37:718][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.20-17.56.37:825][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.20-17.56.37:825][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.20-17.56.37:825][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.20-17.56.37:849][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alexander Coelho/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.20-17.56.37:850][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.20-17.56.37:850][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.20-17.56.37:981][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.20-17.56.38:028][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.20-17.56.38:125][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.20-17.56.39:235][  0]LogAssetRegistry: FAssetRegistry took 0.0088 seconds to start up
+[2021.01.20-17.56.43:474][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.20-17.56.45:556][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.20-17.56.45:556][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.20-17.56.45:556][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.20-17.56.45:556][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.20-17.56.45:556][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.20-17.56.45:871][  0]LogNetVersion: BunnyGirlSavesWorld 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 73706494)
+[2021.01.20-17.56.58:128][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.121462 seconds
+[2021.01.20-17.56.58:158][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2021.01.20-17.56.58:158][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2021.01.20-17.56.58:158][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.20-17.57.03:211][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.20-17.57.03:266][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.20-17.57.04:159][  0]SourceControl: Source control is disabled
+[2021.01.20-17.57.04:159][  0]SourceControl: Source control is disabled
+[2021.01.20-17.57.04:293][  0]SourceControl: Source control is disabled
+[2021.01.20-17.57.04:340][  0]SourceControl: Source control is disabled
+[2021.01.20-17.57.04:372][  0]SourceControl: Source control is disabled
+[2021.01.20-17.57.04:482][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.01.20-17.57.04:485][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.01.20-17.57.06:296][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.20-17.57.06:479][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.20-17.57.06:479][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.20-17.57.07:226][  0]LogOcInput: OculusInput pre-init called
+[2021.01.20-17.57.07:357][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.20-17.57.07:357][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.20-17.57.08:117][  0]LogEngine: Initializing Engine...
+[2021.01.20-17.57.08:136][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.20-17.57.08:162][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.01.20-17.57.09:685][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.20-17.57.09:882][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.20-17.57.10:038][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.20-17.57.10:038][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.20-17.57.10:038][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.20-17.57.10:038][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.20-17.57.10:038][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.20-17.57.10:039][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.20-17.57.10:039][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.20-17.57.10:039][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.20-17.57.10:041][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.20-17.57.10:041][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.20-17.57.10:143][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.20-17.57.10:143][  0]LogAudioMixer: Display: Name: Speakers (Sound Blaster Recon3Di)
+[2021.01.20-17.57.10:143][  0]LogAudioMixer: Display: Is Default: Yes
+[2021.01.20-17.57.10:143][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.20-17.57.10:143][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.20-17.57.10:143][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.20-17.57.10:143][  0]LogAudioMixer: Display: Channel Order:
+[2021.01.20-17.57.10:143][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-17.57.10:143][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-17.57.10:634][  0]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Recon3Di)
+[2021.01.20-17.57.10:642][  0]LogInit: FAudioDevice initialized.
+[2021.01.20-17.57.10:642][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.20-17.57.10:765][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/Alexander Coelho/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.01.20-17.57.10:767][  0]LogInit: Texture streaming: Enabled
+[2021.01.20-17.57.10:962][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.20-17.57.10:962][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.20-17.57.11:000][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.20-17.57.12:359][  0]LogInit: Transaction tracking system initialized
+[2021.01.20-17.57.12:699][  0]BlueprintLog: New page: Editor Load
+[2021.01.20-17.57.13:845][  0]LocalizationService: Localization service is disabled
+[2021.01.20-17.57.15:161][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.01.20-17.57.15:164][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.01.20-17.57.17:529][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Content/' took 0.01s
+[2021.01.20-17.57.17:529][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.20-17.57.17:530][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.20-17.57.22:924][  0]SourceControl: Source control is disabled
+[2021.01.20-17.57.22:950][  0]Cmd: MAP LOAD FILE="C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.20-17.57.22:952][  0]LightingResults: New page: Lighting Build
+[2021.01.20-17.57.23:017][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-17.57.23:039][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-17.57.23:045][  0]MapCheck: New page: Map Check
+[2021.01.20-17.57.23:045][  0]LightingResults: New page: Lighting Build
+[2021.01.20-17.57.23:239][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2021.01.20-17.57.24:225][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.20-17.57.24:564][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.20-17.57.24:711][  0]LogUObjectHash: Compacting FUObjectHashTables data took   7.69ms
+[2021.01.20-17.57.24:712][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.20-17.57.24:721][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8.388ms to complete.
+[2021.01.20-17.57.24:721][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 1.784
+[2021.01.20-17.57.25:544][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-17.57.25:581][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-17.57.25:607][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-17.57.25:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-17.57.25:729][  0]LogCollectionManager: Loaded 0 collections in 0.003713 seconds
+[2021.01.20-17.57.25:819][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Collections/' took 0.00s
+[2021.01.20-17.57.25:819][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Content/Developers/AlexanderCoelho/Collections/' took 0.00s
+[2021.01.20-17.57.25:819][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Content/Collections/' took 0.00s
+[2021.01.20-17.57.25:819][  0]LogContentBrowser: Native class hierarchy populated in 0.0288 seconds. Added 3015 classes and 717 folders.
+[2021.01.20-17.57.25:842][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2021.01.20-17.57.26:973][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.01.20-17.57.27:066][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 2 classes and 3 folders.
+[2021.01.20-17.57.27:746][  0]LogSlate: Took 0.027537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.20-17.57.27:780][  0]LogSlate: Took 0.010215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.20-17.57.27:824][  0]LogSlate: Took 0.010647 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.20-17.57.28:401][  0]LogRenderer: Reallocating scene render targets to support 1208x672 Format 10 NumSamples 1 (Frame:1).
+[2021.01.20-17.57.29:026][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.01.20-17.57.29:026][  0]LogLoad: (Engine Initialization) Total time: 85.79 seconds
+[2021.01.20-17.57.29:026][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.20-17.57.29:204][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.20-17.57.29:337][  0]LogSlate: Took 0.013188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.20-17.57.32:099][ 22]LogAssetRegistry: Asset discovery search completed in 52.8674 seconds
+[2021.01.20-17.57.32:111][ 22]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2021.01.20-18.00.37:414][558]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.20-18.00.37:493][558]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.00.37:493][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.20-18.00.37:524][558]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 20, 2021, 8:00:37 AM)
+[2021.01.20-18.00.37:540][558]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.20-18.00.37:543][558]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.20-18.00.37:543][558]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.20-18.00.37:620][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063871s)
+[2021.01.20-18.00.37:624][558]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.20-18.00.37:625][558]LogPlayLevel: PIE: World Init took: (0.004457s)
+[2021.01.20-18.00.37:625][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.081962s)
+[2021.01.20-18.00.37:723][558]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2021.01.20-18.00.37:727][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.20-18.00.37:727][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.20-18.00.37:727][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.20-18.00.37:727][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.20-18.00.37:727][558]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.20-18.00.37:727][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.20-18.00.37:727][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.20-18.00.37:728][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.20-18.00.37:728][558]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.20-18.00.37:729][558]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.20-18.00.37:779][558]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.20-18.00.37:779][558]LogAudioMixer: Display: Name: Speakers (Sound Blaster Recon3Di)
+[2021.01.20-18.00.37:779][558]LogAudioMixer: Display: Is Default: Yes
+[2021.01.20-18.00.37:779][558]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.20-18.00.37:779][558]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.20-18.00.37:779][558]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.20-18.00.37:779][558]LogAudioMixer: Display: Channel Order:
+[2021.01.20-18.00.37:779][558]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-18.00.37:780][558]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-18.00.37:865][558]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Recon3Di)
+[2021.01.20-18.00.37:874][558]LogInit: FAudioDevice initialized.
+[2021.01.20-18.00.37:911][558]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.01.20-18.00.37:933][558]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2021.01.20-13.00.37
+[2021.01.20-18.00.37:948][558]LogWorld: Bringing up level for play took: 0.019797
+[2021.01.20-18.00.37:949][558]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.01.20-18.00.38:016][558]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2021.01.20-18.00.38:020][558]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.453
+[2021.01.20-18.00.38:021][558]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.02.20:718][959]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.02.20:718][959]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.02.20:719][959]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.02.20:719][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-18.02.20:720][959]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.20-18.02.20:720][959]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.02.21:006][959]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-18.02.21:007][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-18.02.21:035][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.20-18.02.21:035][959]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.02.21:043][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-18.02.21:133][959]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.02.21:142][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-18.02.21:195][959]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2021.01.20-18.02.21:257][960]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.01.20-18.02.26:647][105]LogSlate: Took 0.000636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.20-18.02.26:714][105]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/BunnyGirl.BunnyGirl
+[2021.01.20-18.02.27:467][105]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 121 classes and 0 folders.
+[2021.01.20-18.02.31:192][105]LogSlate: Took 0.030485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.20-18.02.31:628][106]LogSlate: Took 0.010056 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.20-18.02.37:549][337]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Projectile_BP.Projectile_BP
+[2021.01.20-18.03.01:561][980]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-18.03.01:561][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-18.03.20:636][511]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/PlayingCard_BP.PlayingCard_BP
+[2021.01.20-18.04.21:476][937]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:1).
+[2021.01.20-18.04.49:129][839]BlueprintLog: New page: Compile BunnyGirl
+[2021.01.20-18.04.50:055][839]LogUObjectHash: Compacting FUObjectHashTables data took  12.01ms
+[2021.01.20-18.04.50:425][839]LogSavePackage: Moving 'C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/BunnyGirl8A389F6A470EC93F3C6F7383B95FA5D5.tmp' to 'C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Content/2DSideScrollerBP/Blueprints/BunnyGirl.uasset'
+[2021.01.20-18.04.50:462][839]AssetCheck: New page: Asset Save: BunnyGirl
+[2021.01.20-18.04.50:462][839]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/BunnyGirl.BunnyGirl
+[2021.01.20-18.04.53:489][921]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.20-18.04.53:526][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.04.53:526][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.20-18.04.53:526][921]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 20, 2021, 8:04:53 AM)
+[2021.01.20-18.04.53:527][921]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.20-18.04.53:574][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046678s)
+[2021.01.20-18.04.53:577][921]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.20-18.04.53:578][921]LogPlayLevel: PIE: World Init took: (0.003461s)
+[2021.01.20-18.04.53:578][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.051014s)
+[2021.01.20-18.04.53:697][921]LogUObjectHash: Compacting FUObjectHashTables data took  12.10ms
+[2021.01.20-18.04.53:700][921]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.20-18.04.53:700][921]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.20-18.04.53:700][921]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.20-18.04.53:700][921]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.20-18.04.53:700][921]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.20-18.04.53:700][921]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.20-18.04.53:701][921]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.20-18.04.53:701][921]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.20-18.04.53:702][921]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.20-18.04.53:702][921]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.20-18.04.53:739][921]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.20-18.04.53:739][921]LogAudioMixer: Display: Name: Speakers (Sound Blaster Recon3Di)
+[2021.01.20-18.04.53:739][921]LogAudioMixer: Display: Is Default: Yes
+[2021.01.20-18.04.53:739][921]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.20-18.04.53:740][921]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.20-18.04.53:740][921]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.20-18.04.53:740][921]LogAudioMixer: Display: Channel Order:
+[2021.01.20-18.04.53:740][921]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-18.04.53:740][921]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-18.04.53:789][921]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Recon3Di)
+[2021.01.20-18.04.53:795][921]LogInit: FAudioDevice initialized.
+[2021.01.20-18.04.53:879][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-18.04.53:879][921]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.01.20-18.04.53:890][921]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2021.01.20-13.04.53
+[2021.01.20-18.04.53:891][921]LogWorld: Bringing up level for play took: 0.008426
+[2021.01.20-18.04.53:892][921]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.01.20-18.04.53:903][921]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.57
+[2021.01.20-18.04.53:904][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.04.54:027][922]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.01.20-18.05.03:688][ 67]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.05.03:688][ 67]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.05.03:688][ 67]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.05.03:689][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-18.05.03:689][ 67]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.20-18.05.03:717][ 67]LogSlate: Window 'BunnyGirlSavesWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.20-18.05.03:777][ 67]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.05.03:778][ 67]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-18.05.03:779][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-18.05.03:805][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.20-18.05.03:806][ 67]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.05.03:818][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-18.05.03:931][ 67]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.05.03:951][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   9.38ms
+[2021.01.20-18.05.04:036][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.01.20-18.05.06:034][118]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.20-18.05.06:067][118]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.05.06:068][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.20-18.05.06:068][118]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 20, 2021, 8:05:06 AM)
+[2021.01.20-18.05.06:068][118]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.20-18.05.06:112][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043268s)
+[2021.01.20-18.05.06:115][118]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.20-18.05.06:116][118]LogPlayLevel: PIE: World Init took: (0.003469s)
+[2021.01.20-18.05.06:116][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.047379s)
+[2021.01.20-18.05.06:230][118]LogUObjectHash: Compacting FUObjectHashTables data took   9.06ms
+[2021.01.20-18.05.06:232][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.20-18.05.06:232][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.20-18.05.06:232][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.20-18.05.06:233][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.20-18.05.06:233][118]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.20-18.05.06:233][118]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.20-18.05.06:233][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.20-18.05.06:233][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.20-18.05.06:234][118]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.20-18.05.06:234][118]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.20-18.05.06:267][118]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.20-18.05.06:268][118]LogAudioMixer: Display: Name: Speakers (Sound Blaster Recon3Di)
+[2021.01.20-18.05.06:268][118]LogAudioMixer: Display: Is Default: Yes
+[2021.01.20-18.05.06:268][118]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.20-18.05.06:268][118]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.20-18.05.06:268][118]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.20-18.05.06:268][118]LogAudioMixer: Display: Channel Order:
+[2021.01.20-18.05.06:268][118]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-18.05.06:268][118]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-18.05.06:317][118]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Recon3Di)
+[2021.01.20-18.05.06:322][118]LogInit: FAudioDevice initialized.
+[2021.01.20-18.05.06:404][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-18.05.06:404][118]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.01.20-18.05.06:414][118]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2021.01.20-13.05.06
+[2021.01.20-18.05.06:415][118]LogWorld: Bringing up level for play took: 0.007874
+[2021.01.20-18.05.06:416][118]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.01.20-18.05.06:424][118]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.048
+[2021.01.20-18.05.06:425][118]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.05.18:582][301]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.05.18:583][301]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.05.18:583][301]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.05.18:583][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-18.05.18:584][301]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.20-18.05.18:610][301]LogSlate: Window 'BunnyGirlSavesWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.20-18.05.18:666][301]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.05.18:667][301]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-18.05.18:669][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-18.05.18:693][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.20-18.05.18:694][301]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.05.18:705][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-18.05.18:819][301]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.05.18:838][301]LogUObjectHash: Compacting FUObjectHashTables data took   8.35ms
+[2021.01.20-18.05.18:939][302]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.01.20-18.06.25:857][557]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Projectile_BP.Projectile_BP
+[2021.01.20-18.06.55:436][178]BlueprintLog: New page: Compile BunnyGirl
+[2021.01.20-18.06.56:167][178]LogUObjectHash: Compacting FUObjectHashTables data took  12.35ms
+[2021.01.20-18.06.56:976][187]LogSavePackage: Moving 'C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/BunnyGirl296CF2274F49D0AB9D9CB88E3006A13A.tmp' to 'C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Content/2DSideScrollerBP/Blueprints/BunnyGirl.uasset'
+[2021.01.20-18.06.57:017][187]AssetCheck: New page: Asset Save: BunnyGirl
+[2021.01.20-18.06.57:018][187]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/BunnyGirl.BunnyGirl
+[2021.01.20-18.06.58:664][229]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.20-18.06.58:707][229]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.06.58:707][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.20-18.06.58:708][229]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 20, 2021, 8:06:58 AM)
+[2021.01.20-18.06.58:708][229]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.20-18.06.58:754][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045255s)
+[2021.01.20-18.06.58:756][229]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.20-18.06.58:757][229]LogPlayLevel: PIE: World Init took: (0.003349s)
+[2021.01.20-18.06.58:757][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.049207s)
+[2021.01.20-18.06.58:895][229]LogUObjectHash: Compacting FUObjectHashTables data took  13.48ms
+[2021.01.20-18.06.58:898][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.20-18.06.58:898][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.20-18.06.58:898][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.20-18.06.58:898][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.20-18.06.58:898][229]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.20-18.06.58:898][229]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.20-18.06.58:898][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.20-18.06.58:898][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.20-18.06.58:899][229]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.20-18.06.58:900][229]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.20-18.06.58:950][229]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.20-18.06.58:950][229]LogAudioMixer: Display: Name: Speakers (Sound Blaster Recon3Di)
+[2021.01.20-18.06.58:951][229]LogAudioMixer: Display: Is Default: Yes
+[2021.01.20-18.06.58:951][229]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.20-18.06.58:951][229]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.20-18.06.58:951][229]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.20-18.06.58:951][229]LogAudioMixer: Display: Channel Order:
+[2021.01.20-18.06.58:951][229]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-18.06.58:951][229]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-18.06.59:047][229]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Recon3Di)
+[2021.01.20-18.06.59:052][229]LogInit: FAudioDevice initialized.
+[2021.01.20-18.06.59:133][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-18.06.59:134][229]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.01.20-18.06.59:145][229]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2021.01.20-13.06.59
+[2021.01.20-18.06.59:146][229]LogWorld: Bringing up level for play took: 0.008290
+[2021.01.20-18.06.59:147][229]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.01.20-18.06.59:156][229]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.683
+[2021.01.20-18.06.59:157][229]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.07.11:077][408]LogCharacterMovement: 2DSideScrollerCharacter_254 is stuck and failed to move! Velocity: X=68.30 Y=0.00 Z=0.00 Location: X=-63.49 Y=0.00 Z=198.29 Normal: X=-0.00 Y=1.00 Z=-0.00 PenetrationDepth:40.000 Actor:PlayingCard_BP_C_17 Component:StaticMesh BoneName:None (0 other events since notify)
+[2021.01.20-18.07.14:011][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.07.14:011][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.07.14:011][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.07.14:012][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-18.07.14:012][452]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.20-18.07.14:039][452]LogSlate: Window 'BunnyGirlSavesWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.20-18.07.14:095][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.07.14:095][452]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-18.07.14:098][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-18.07.14:122][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.20-18.07.14:123][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.07.14:135][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-18.07.14:257][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.07.14:278][452]LogUObjectHash: Compacting FUObjectHashTables data took   9.75ms
+[2021.01.20-18.07.14:381][453]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.01.20-18.07.19:129][676]BlueprintLog: New page: Compile BunnyGirl
+[2021.01.20-18.07.19:768][676]LogUObjectHash: Compacting FUObjectHashTables data took  10.24ms
+[2021.01.20-18.07.20:410][688]LogSavePackage: Moving 'C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/BunnyGirl3CD423E54850EF7F6FD1DA859AC7CBBA.tmp' to 'C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Content/2DSideScrollerBP/Blueprints/BunnyGirl.uasset'
+[2021.01.20-18.07.20:450][688]AssetCheck: New page: Asset Save: BunnyGirl
+[2021.01.20-18.07.20:451][688]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/BunnyGirl.BunnyGirl
+[2021.01.20-18.07.23:693][786]BlueprintLog: New page: Compile BunnyGirl
+[2021.01.20-18.07.24:435][786]LogUObjectHash: Compacting FUObjectHashTables data took  12.96ms
+[2021.01.20-18.07.53:048][985]BlueprintLog: New page: Compile BunnyGirl
+[2021.01.20-18.07.53:802][985]LogUObjectHash: Compacting FUObjectHashTables data took  13.37ms
+[2021.01.20-18.07.55:329][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.20-18.07.55:370][ 32]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.07.55:370][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.20-18.07.55:371][ 32]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 20, 2021, 8:07:55 AM)
+[2021.01.20-18.07.55:371][ 32]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.20-18.07.55:417][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044798s)
+[2021.01.20-18.07.55:419][ 32]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.20-18.07.55:420][ 32]LogPlayLevel: PIE: World Init took: (0.003185s)
+[2021.01.20-18.07.55:420][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.048553s)
+[2021.01.20-18.07.55:543][ 32]LogUObjectHash: Compacting FUObjectHashTables data took  12.52ms
+[2021.01.20-18.07.55:546][ 32]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.20-18.07.55:546][ 32]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.20-18.07.55:546][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.20-18.07.55:546][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.20-18.07.55:546][ 32]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.20-18.07.55:547][ 32]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.20-18.07.55:547][ 32]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.20-18.07.55:547][ 32]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.20-18.07.55:548][ 32]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.20-18.07.55:548][ 32]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.20-18.07.55:582][ 32]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.20-18.07.55:582][ 32]LogAudioMixer: Display: Name: Speakers (Sound Blaster Recon3Di)
+[2021.01.20-18.07.55:582][ 32]LogAudioMixer: Display: Is Default: Yes
+[2021.01.20-18.07.55:582][ 32]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.20-18.07.55:582][ 32]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.20-18.07.55:582][ 32]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.20-18.07.55:582][ 32]LogAudioMixer: Display: Channel Order:
+[2021.01.20-18.07.55:582][ 32]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-18.07.55:582][ 32]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-18.07.55:630][ 32]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Recon3Di)
+[2021.01.20-18.07.55:634][ 32]LogInit: FAudioDevice initialized.
+[2021.01.20-18.07.55:712][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-18.07.55:713][ 32]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.01.20-18.07.55:722][ 32]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2021.01.20-13.07.55
+[2021.01.20-18.07.55:723][ 32]LogWorld: Bringing up level for play took: 0.006942
+[2021.01.20-18.07.55:724][ 32]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.01.20-18.07.55:734][ 32]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.261
+[2021.01.20-18.07.55:735][ 32]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.07.58:112][102]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.07.58:345][109]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.07.59:178][134]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.07.59:344][139]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.07.59:511][144]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.08.00:411][171]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.08.01:010][189]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.08.02:677][239]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.08.03:243][256]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.08.03:910][276]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.08.04:543][295]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.08.05:744][331]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.08.05:744][331]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.08.05:744][331]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.08.05:745][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-18.08.05:745][331]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.20-18.08.05:771][331]LogSlate: Window 'BunnyGirlSavesWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.20-18.08.05:817][331]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.08.05:818][331]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-18.08.05:819][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-18.08.05:846][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.20-18.08.05:847][331]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.08.05:859][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-18.08.05:986][331]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.08.06:006][331]LogUObjectHash: Compacting FUObjectHashTables data took   9.07ms
+[2021.01.20-18.08.06:064][332]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.01.20-18.10.10:181][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.01.20-18.10.11:277][142]LogSavePackage: Moving 'C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/2DSideScrollerExampleMap_Auto1F3C2477E4FEB23331D9BD08FEF1120BF.tmp' to 'C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2021.01.20-18.10.11:285][142]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 1.232
+[2021.01.20-18.10.11:285][142]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.232
+[2021.01.20-18.10.11:286][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/BunnyGirl] ([1] browsable assets)...
+[2021.01.20-18.10.11:286][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/BunnyGirl]
+[2021.01.20-18.10.11:456][142]LogSavePackage: Moving 'C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/BunnyGirl_Auto1FFF775554FFEF4B0C90045959BAA49CB.tmp' to 'C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/BunnyGirl_Auto1.uasset'
+[2021.01.20-18.10.11:488][142]LogFileHelpers: Auto-saving content packages took 0.203
+[2021.01.20-18.10.58:866][255]LogUObjectHash: Compacting FUObjectHashTables data took  11.50ms
+[2021.01.20-18.11.03:665][255]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.20-18.11.31:009][557]BlueprintLog: New page: Compile BunnyGirl
+[2021.01.20-18.11.31:717][557]LogUObjectHash: Compacting FUObjectHashTables data took  11.26ms
+[2021.01.20-18.11.32:378][570]LogSavePackage: Moving 'C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Saved/BunnyGirl236146434A637E0864CA3EA16260F61C.tmp' to 'C:/Users/Alexander Coelho/Documents/Unreal Projects/BunnyGirlSavesWorld/Content/2DSideScrollerBP/Blueprints/BunnyGirl.uasset'
+[2021.01.20-18.11.32:458][570]AssetCheck: New page: Asset Save: BunnyGirl
+[2021.01.20-18.11.32:459][570]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/BunnyGirl.BunnyGirl
+[2021.01.20-18.11.33:393][596]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.20-18.11.33:434][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.11.33:434][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.20-18.11.33:435][596]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 20, 2021, 8:11:33 AM)
+[2021.01.20-18.11.33:435][596]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.20-18.11.33:483][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046915s)
+[2021.01.20-18.11.33:485][596]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.20-18.11.33:486][596]LogPlayLevel: PIE: World Init took: (0.003619s)
+[2021.01.20-18.11.33:486][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.051230s)
+[2021.01.20-18.11.33:602][596]LogUObjectHash: Compacting FUObjectHashTables data took  13.26ms
+[2021.01.20-18.11.33:603][596]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.20-18.11.33:604][596]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.20-18.11.33:604][596]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.20-18.11.33:604][596]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.20-18.11.33:604][596]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.20-18.11.33:604][596]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.20-18.11.33:604][596]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.20-18.11.33:604][596]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.20-18.11.33:605][596]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.20-18.11.33:605][596]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.20-18.11.33:642][596]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.20-18.11.33:642][596]LogAudioMixer: Display: Name: Speakers (Sound Blaster Recon3Di)
+[2021.01.20-18.11.33:642][596]LogAudioMixer: Display: Is Default: Yes
+[2021.01.20-18.11.33:642][596]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.20-18.11.33:642][596]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.20-18.11.33:642][596]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.20-18.11.33:643][596]LogAudioMixer: Display: Channel Order:
+[2021.01.20-18.11.33:643][596]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-18.11.33:643][596]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-18.11.33:693][596]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Recon3Di)
+[2021.01.20-18.11.33:697][596]LogInit: FAudioDevice initialized.
+[2021.01.20-18.11.33:770][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-18.11.33:771][596]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.01.20-18.11.33:779][596]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2021.01.20-13.11.33
+[2021.01.20-18.11.33:781][596]LogWorld: Bringing up level for play took: 0.006309
+[2021.01.20-18.11.33:782][596]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.01.20-18.11.33:791][596]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.319
+[2021.01.20-18.11.33:792][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.11.35:641][620]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.36:521][636]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.37:256][647]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.37:721][654]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.37:921][657]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.38:120][660]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.38:254][662]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.38:721][669]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.38:854][671]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.38:989][673]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.39:187][676]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.39:320][678]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.39:454][680]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.39:587][682]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.39:854][686]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.40:053][689]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.40:186][691]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2021.01.20-18.11.42:586][727]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.11.42:586][727]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.11.42:587][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.11.42:587][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-18.11.42:587][727]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.20-18.11.42:613][727]LogSlate: Window 'BunnyGirlSavesWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.20-18.11.42:701][727]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.11.42:701][727]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-18.11.42:703][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-18.11.42:739][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.20-18.11.42:740][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2021.01.20-18.11.42:751][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-18.11.42:869][727]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.20-18.11.42:889][727]LogUObjectHash: Compacting FUObjectHashTables data took   9.09ms
+[2021.01.20-18.11.42:949][728]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.01.20-18.13.45:817][ 54]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:348 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2021.01.20-18.13.45:818][ 54]LogD3D11RHI: [Aftermath] GDynamicRHI=000001D1DE7380C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.01.20-18.13.45:818][ 54]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.01.20-18.13.56:215][ 54]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.01.20-18.13.56:215][ 54]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.01.20-18.13.56:223][ 54]LogThreadingWindows: Error: Runnable thread RenderThread 16 crashed.
+[2021.01.20-18.13.56:223][ 54]LogWindows: Error: HandleError re-entered.
+[2021.01.20-18.13.56:224][ 54]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.01.20-18.13.56:224][ 54]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.01.20-18.13.56:224][ 54]LogWindows: Error: === Critical error: ===
+[2021.01.20-18.13.56:224][ 54]LogWindows: Error: 
+[2021.01.20-18.13.56:224][ 54]LogWindows: Error: Ensure condition failed: !IsLocked() [File:D:/Build/++UE4/Sync/Engine/Source/Developer/EditorAnalyticsSession/Private/EditorAnalyticsSession.cpp] [Line: 259] 
+[2021.01.20-18.13.56:224][ 54]LogWindows: Error: 
+[2021.01.20-18.13.56:224][ 54]LogWindows: Error: 
+[2021.01.20-18.13.56:224][ 54]LogWindows: Error: 
+[2021.01.20-18.13.56:224][ 54]LogWindows: Error: 
+[2021.01.20-18.13.56:257][ 54]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.026 s
+[2021.01.20-18.13.56:258][ 54]LogOutputDevice: Error: === Handled ensure: ===
+[2021.01.20-18.13.56:258][ 54]LogOutputDevice: Error: 
+[2021.01.20-18.13.56:258][ 54]LogOutputDevice: Error: Ensure condition failed: !IsLocked() [File:D:/Build/++UE4/Sync/Engine/Source/Developer/EditorAnalyticsSession/Private/EditorAnalyticsSession.cpp] [Line: 259]
+[2021.01.20-18.13.56:258][ 54]LogOutputDevice: Error: 
+[2021.01.20-18.13.56:258][ 54]LogExit: Executing StaticShutdownAfterError
+[2021.01.20-18.13.56:258][ 54]LogOutputDevice: Error: Stack: 
+[2021.01.20-18.13.56:258][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffee06ce7e9 UE4Editor-EditorAnalyticsSession.dll!UnknownFunction []
+[2021.01.20-18.13.56:258][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffee06c6227 UE4Editor-EditorAnalyticsSession.dll!UnknownFunction []
+[2021.01.20-18.13.56:259][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffe98c7acea UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.20-18.13.56:259][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffe98c66f3e UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.20-18.13.56:259][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffeb846a8eb UE4Editor-Core.dll!UnknownFunction []
+[2021.01.20-18.13.56:259][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffeb881c2f6 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.20-18.13.56:259][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffeb88230f0 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.20-18.13.56:259][ 54]LogOutputDevice: Error: [Callstack] 0x00007fff12267034 KERNEL32.DLL!UnknownFunction []
+[2021.01.20-18.13.56:259][ 54]LogOutputDevice: Error: [Callstack] 0x00007fff12e1d0d1 ntdll.dll!UnknownFunction []
+[2021.01.20-18.13.56:259][ 54]LogOutputDevice: Error: 
+[2021.01.20-18.13.56:259][ 54]LogStats:                SubmitErrorReport -  0.000 s
+[2021.01.20-18.13.56:259][ 54]LogStats:                    SendNewReport -  0.000 s
+[2021.01.20-18.13.56:259][ 54]LogStats:             FDebug::EnsureFailed -  0.026 s
+[2021.01.20-18.13.56:259][ 54]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2021.01.20-18.13.56:260][ 54]LogOutputDevice: Error: === Handled ensure: ===
+[2021.01.20-18.13.56:260][ 54]LogOutputDevice: Error: 
+[2021.01.20-18.13.56:260][ 54]LogOutputDevice: Error: Ensure condition failed: IsLocked() [File:D:/Build/++UE4/Sync/Engine/Source/Developer/EditorAnalyticsSession/Private/EditorAnalyticsSession.cpp] [Line: 370]
+[2021.01.20-18.13.56:260][ 54]LogOutputDevice: Error: 
+[2021.01.20-18.13.56:260][ 54]LogOutputDevice: Error: Stack: 
+[2021.01.20-18.13.56:260][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffee06ce709 UE4Editor-EditorAnalyticsSession.dll!UnknownFunction []
+[2021.01.20-18.13.56:260][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffee06c759c UE4Editor-EditorAnalyticsSession.dll!UnknownFunction []
+[2021.01.20-18.13.56:260][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffe98c7acf7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.20-18.13.56:260][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffe98c66f3e UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.20-18.13.56:260][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffeb846a8eb UE4Editor-Core.dll!UnknownFunction []
+[2021.01.20-18.13.56:260][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffeb881c2f6 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.20-18.13.56:261][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffeb88230f0 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.20-18.13.56:261][ 54]LogOutputDevice: Error: [Callstack] 0x00007fff12267034 KERNEL32.DLL!UnknownFunction []
+[2021.01.20-18.13.56:261][ 54]LogOutputDevice: Error: [Callstack] 0x00007fff12e1d0d1 ntdll.dll!UnknownFunction []
+[2021.01.20-18.13.56:261][ 54]LogOutputDevice: Error: 
+[2021.01.20-18.13.56:261][ 54]LogStats:                SubmitErrorReport -  0.000 s
+[2021.01.20-18.13.56:261][ 54]LogStats:                    SendNewReport -  0.000 s
+[2021.01.20-18.13.56:261][ 54]LogStats:             FDebug::EnsureFailed -  0.001 s
+[2021.01.20-18.13.56:261][ 54]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2021.01.20-18.13.56:261][ 54]LogOutputDevice: Error: === Handled ensure: ===
+[2021.01.20-18.13.56:261][ 54]LogOutputDevice: Error: 
+[2021.01.20-18.13.56:261][ 54]LogOutputDevice: Error: Ensure condition failed: IsLocked() [File:D:/Build/++UE4/Sync/Engine/Source/Developer/EditorAnalyticsSession/Private/EditorAnalyticsSession.cpp] [Line: 279]
+[2021.01.20-18.13.56:261][ 54]LogOutputDevice: Error: 
+[2021.01.20-18.13.56:262][ 54]LogOutputDevice: Error: Stack: 
+[2021.01.20-18.13.56:262][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffee06ce629 UE4Editor-EditorAnalyticsSession.dll!UnknownFunction []
+[2021.01.20-18.13.56:262][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffee06c9835 UE4Editor-EditorAnalyticsSession.dll!UnknownFunction []
+[2021.01.20-18.13.56:262][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffe98c7acfd UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.20-18.13.56:262][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffe98c66f3e UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.20-18.13.56:262][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffeb846a8eb UE4Editor-Core.dll!UnknownFunction []
+[2021.01.20-18.13.56:262][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffeb881c2f6 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.20-18.13.56:262][ 54]LogOutputDevice: Error: [Callstack] 0x00007ffeb88230f0 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.20-18.13.56:262][ 54]LogOutputDevice: Error: [Callstack] 0x00007fff12267034 KERNEL32.DLL!UnknownFunction []
+[2021.01.20-18.13.56:263][ 54]LogOutputDevice: Error: [Callstack] 0x00007fff12e1d0d1 ntdll.dll!UnknownFunction []
+[2021.01.20-18.13.56:263][ 54]LogOutputDevice: Error: 
+[2021.01.20-18.13.56:263][ 54]LogStats:                SubmitErrorReport -  0.000 s
+[2021.01.20-18.13.56:263][ 54]LogStats:                    SendNewReport -  0.000 s
+[2021.01.20-18.13.56:263][ 54]LogStats:             FDebug::EnsureFailed -  0.001 s
+[2021.01.20-18.13.56:268][ 54]Log file closed, 01/20/21 13:13:56
